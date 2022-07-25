@@ -1,3 +1,8 @@
-h1 {
-    background-color: antiquewhite;
+.banner {
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+
+.subscribe_sec {
+    background-color: #FEEAE9;
 }
